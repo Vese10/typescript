@@ -146,6 +146,7 @@ aziende[2].offriPosizione(partecipanti[5], "Cuoco");
 aziende[2].offriPosizione(partecipanti[8], "Cuoco");
 aziende[2].offriPosizione(partecipanti[11], "Cuoco");
 
+// Visualizzazione degli iscritti ai corsi
 console.log(corsi[0].elencoIscritti);
 console.log(corsi[1].elencoIscritti);
 console.log(corsi[2].elencoIscritti);
