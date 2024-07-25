@@ -12,20 +12,18 @@ Questo progetto prevede lo sviluppo di un sistema in TypeScript che modella la s
 - **ICorso**: rappresenta i corsi di formazione offerti da IncluDO.
 - **IAzienda**: rappresenta le aziende partner che offrono opportunità di tirocinio o impiego ai migranti formati.
 
-## Skills
+## Competenze
 
-The skills used to create this project are:
+Le competenze utilizzate per creare questo progetto sono:
  - Typescript
 
- ## Author and Contacts
+ ## Autore e Contatti
 
 Veselin Hristov – [@instagram](https://instagram.com/vese.10?igshid=OGQ5ZDc2ODk2ZA==) – veselin.hristov.10@gmail.com
 
-Distributed under the XYZ license. See ``LICENSE`` for more information.
-
 [https://github.com/Vese10](https://github.com/Vese10)
 
-## Contributing
+## Contribuisci
 
 1. Fork it (<https://github.com/Vese10/typescript>)
 2. Create your feature branch (`git checkout -b feature/typescript`)
